@@ -1,3 +1,4 @@
+
 <img width="778" height="362" alt="image" src="https://github.com/user-attachments/assets/292f7550-a5f2-4c14-8185-0a9d1feb3ca2" />
 <img width="890" height="616" alt="image" src="https://github.com/user-attachments/assets/9c2f6067-2542-4138-b3d1-5650f3adb5ef" />
 <img width="907" height="771" alt="image" src="https://github.com/user-attachments/assets/fcfbc3b4-35be-4ebb-ab42-9ac7865f079c" />
@@ -9,6 +10,10 @@
 
 # Tabulation with readings
 
+![FET TABLE](https://github.com/user-attachments/assets/ab7221ad-5b4b-4871-9d70-7d13b7427669)
+
 ## Semilog plotted Graph
+
+![FET GRAPH](https://github.com/user-attachments/assets/1bc16651-6a69-4431-ac78-abae9c52be91)
 
 <img width="697" height="292" alt="image" src="https://github.com/user-attachments/assets/931385be-3c78-4682-a10c-1924b3faa1d4" />
